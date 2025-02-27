@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AiCombineMaker</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="greating-text">
+            <h1>AI Garderobe Maker</h1>
+            <h3>Upload your cloth's image and get the best combination for your outfit</h3>
+        </div>
+    </div>
+    <div class="container">
+        <form id="uploadForm">
+            <div class="form-group">
+                <label for="imageUpload">Upload Your Cloth's Image</label>
+                <input type="file" id="imageUpload" name="imageUpload" accept="image/*" />
+                <div id="sectionSelect" name="sectionSelect">
+                    <label for="sectionSelect">Choose Section:</label>
+                    <input type="radio" value="red" name="clothColor"/>Red
+                    <input type="radio" value="black" name="clothColor"/>Black
+                    <input type="radio" value="green" name="clothColor"/>Green
+                    <input type="radio" value="blue" name="clothColor"/>Blue
+                </div>
+                <div class="generatedPromt">
+                    <h3 id="generatedPrompt">Ilqar Gotuve Wp girsun</h3>
+                </div>
+                <div class="generatedPromt">
+                    <h3 id="generatedPrompt">BURA AI NIN CAVABI GELMELIDI</h3>
+                </div>
+            </div>
+        </form>
+        <button type="" id="generatePrompt">Generate</button>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

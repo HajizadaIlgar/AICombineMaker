@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CombineMakerAI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CombineMakerAI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\wwwroot\\assets\\css\\reset.css",
+      "PackagePath": "staticwebassets\\assets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CombineMakerAI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CombineMakerAI.props",
+      "PackagePath": "build\\CombineMakerAI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CombineMakerAI.props",
+      "PackagePath": "buildMultiTargeting\\CombineMakerAI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CombineMakerAI.props",
+      "PackagePath": "buildTransitive\\CombineMakerAI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|c:\\users\\ilqar\\desktop\\aicombinemaker\\combinemakerai\\combinemakerai\\controllers\\promptcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|solutionrelative:combinemakerai\\controllers\\promptcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|c:\\users\\ilqar\\desktop\\aicombinemaker\\combinemakerai\\combinemakerai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|solutionrelative:combinemakerai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|c:\\users\\ilqar\\desktop\\aicombinemaker\\combinemakerai\\combinemakerai\\wwwroot\\assets\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|solutionrelative:combinemakerai\\wwwroot\\assets\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|c:\\users\\ilqar\\desktop\\aicombinemaker\\combinemakerai\\combinemakerai\\clients\\openaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|solutionrelative:combinemakerai\\clients\\openaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|c:\\users\\ilqar\\desktop\\aicombinemaker\\combinemakerai\\combinemakerai\\views\\prompt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C335615C-F4EF-4679-A8F3-BC76E58F46E7}|CombineMakerAI\\CombineMakerAI.csproj|solutionrelative:combinemakerai\\views\\prompt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Program.cs",
+              "RelativeDocumentMoniker": "CombineMakerAI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Program.cs",
+              "RelativeToolTip": "CombineMakerAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:17:14.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\wwwroot\\assets\\js\\app.js",
+              "RelativeDocumentMoniker": "CombineMakerAI\\wwwroot\\assets\\js\\app.js",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\wwwroot\\assets\\js\\app.js",
+              "RelativeToolTip": "CombineMakerAI\\wwwroot\\assets\\js\\app.js",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T19:22:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAIClient.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Clients\\OpenAIClient.cs",
+              "RelativeDocumentMoniker": "CombineMakerAI\\Clients\\OpenAIClient.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Clients\\OpenAIClient.cs",
+              "RelativeToolTip": "CombineMakerAI\\Clients\\OpenAIClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:26:54.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Views\\Prompt\\Index.cshtml",
+              "RelativeDocumentMoniker": "CombineMakerAI\\Views\\Prompt\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Views\\Prompt\\Index.cshtml",
+              "RelativeToolTip": "CombineMakerAI\\Views\\Prompt\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T19:12:48.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromptController .cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Controllers\\PromptController .cs",
+              "RelativeDocumentMoniker": "CombineMakerAI\\Controllers\\PromptController .cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\AiCombineMaker\\CombineMakerAI\\CombineMakerAI\\Controllers\\PromptController .cs",
+              "RelativeToolTip": "CombineMakerAI\\Controllers\\PromptController .cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:10:05.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
